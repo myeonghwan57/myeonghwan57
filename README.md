@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome!&fontColor=ffffff)
-### Hi there 👋
 
 <!--
 **myeonghwan57/myeonghwan57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myeonghwan57&show_icons=true&theme=radical)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
